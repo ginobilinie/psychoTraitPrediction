@@ -3,4 +3,6 @@ In this project, we use supervised deep learning technique to build the predicti
 
 After training, the loss can be decreased to 0.03. And the model is psA_iter_10000.caffemodel.
 
+The five mat files are features (128-dim) using the trained model for each personality trait.
+
 If you are interested, please contact us.
